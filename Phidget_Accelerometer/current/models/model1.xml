@@ -94,13 +94,9 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
@@ -112,24 +108,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>25.0</double>
-                  <double>138.0</double>
-                </measurements>
-                <hashCode>-2137374720</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-18.0</double>
                   <double>509.0</double>
                 </measurements>
                 <hashCode>11653120</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-129.0</double>
-                  <double>1051.0</double>
-                </measurements>
-                <hashCode>15764480</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -140,24 +122,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>29.0</double>
-                  <double>376.0</double>
-                </measurements>
-                <hashCode>-2135654400</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-56.0</double>
                   <double>1042.0</double>
                 </measurements>
                 <hashCode>14436352</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-3.0</double>
-                  <double>94.0</double>
-                </measurements>
-                <hashCode>6258688</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -266,28 +234,16 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
               <double>8.0</double>
-              <double>9.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
                   <double>61.0</double>
                   <double>128.0</double>
-                </measurements>
-                <hashCode>-2136047616</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>60.0</double>
-                  <double>132.0</double>
                 </measurements>
                 <hashCode>-2136047616</hashCode>
               </com.timeseries.TimeSeriesPoint>
@@ -300,24 +256,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>339.0</double>
-                  <double>-1159.0</double>
-                </measurements>
-                <hashCode>17255424</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>115.0</double>
                   <double>-146.0</double>
                 </measurements>
                 <hashCode>12517376</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-151.0</double>
-                  <double>357.0</double>
-                </measurements>
-                <hashCode>14233600</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -328,24 +270,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>381.0</double>
-                  <double>-1090.0</double>
-                </measurements>
-                <hashCode>17356800</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>71.0</double>
                   <double>-289.0</double>
                 </measurements>
                 <hashCode>12832768</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-72.0</double>
-                  <double>66.0</double>
-                </measurements>
-                <hashCode>10649600</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -484,32 +412,18 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
               <double>8.0</double>
-              <double>9.0</double>
               <double>10.0</double>
-              <double>11.0</double>
               <double>12.0</double>
-              <double>13.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
                   <double>-120.0</double>
                   <double>122.0</double>
-                </measurements>
-                <hashCode>12353536</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-119.0</double>
-                  <double>123.0</double>
                 </measurements>
                 <hashCode>12353536</hashCode>
               </com.timeseries.TimeSeriesPoint>
@@ -522,24 +436,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-118.0</double>
-                  <double>120.0</double>
-                </measurements>
-                <hashCode>12288000</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-119.0</double>
                   <double>120.0</double>
                 </measurements>
                 <hashCode>12304384</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-115.0</double>
-                  <double>116.0</double>
-                </measurements>
-                <hashCode>12173312</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -550,24 +450,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-73.0</double>
-                  <double>-239.0</double>
-                </measurements>
-                <hashCode>-2134892544</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>179.0</double>
                   <double>-1148.0</double>
                 </measurements>
                 <hashCode>16273408</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>84.0</double>
-                  <double>-115.0</double>
-                </measurements>
-                <hashCode>11649024</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -578,24 +464,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>234.0</double>
-                  <double>-1435.0</double>
-                </measurements>
-                <hashCode>17017856</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>84.0</double>
                   <double>-503.0</double>
                 </measurements>
                 <hashCode>13922304</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-120.0</double>
-                  <double>263.0</double>
-                </measurements>
-                <hashCode>13529088</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -686,13 +558,9 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
@@ -704,24 +572,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-33.0</double>
-                  <double>-28.0</double>
-                </measurements>
-                <hashCode>-2139324416</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-34.0</double>
                   <double>-52.0</double>
                 </measurements>
                 <hashCode>-2138374144</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-175.0</double>
-                  <double>-981.0</double>
-                </measurements>
-                <hashCode>-2131458048</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -732,29 +586,305 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-219.0</double>
-                  <double>-598.0</double>
-                </measurements>
-                <hashCode>-2131881984</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-176.0</double>
                   <double>-924.0</double>
                 </measurements>
                 <hashCode>-2131566592</hashCode>
               </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-83.0</double>
-                  <double>-101.0</double>
-                </measurements>
-                <hashCode>-2136080384</hashCode>
-              </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
           <gestureClass>1</gestureClass>
           <id>26</id>
+        </wekimini.learning.dtw.DtwExample>
+        <wekimini.learning.dtw.DtwExample>
+          <timeSeries>
+            <labels>
+              <string>Time</string>
+              <string>0</string>
+              <string>1</string>
+            </labels>
+            <timeReadings>
+              <double>0.0</double>
+              <double>1.0</double>
+              <double>2.0</double>
+              <double>3.0</double>
+              <double>4.0</double>
+              <double>5.0</double>
+              <double>6.0</double>
+              <double>7.0</double>
+              <double>8.0</double>
+              <double>9.0</double>
+              <double>10.0</double>
+              <double>11.0</double>
+              <double>12.0</double>
+              <double>13.0</double>
+              <double>14.0</double>
+              <double>15.0</double>
+              <double>16.0</double>
+              <double>17.0</double>
+              <double>18.0</double>
+              <double>19.0</double>
+              <double>20.0</double>
+              <double>21.0</double>
+            </timeReadings>
+            <tsArray>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>55.0</double>
+                  <double>-175.0</double>
+                </measurements>
+                <hashCode>11624448</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>54.0</double>
+                  <double>-167.0</double>
+                </measurements>
+                <hashCode>11526144</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>54.0</double>
+                  <double>-166.0</double>
+                </measurements>
+                <hashCode>11517952</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>58.0</double>
+                  <double>-164.0</double>
+                </measurements>
+                <hashCode>11632640</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>62.0</double>
+                  <double>-216.0</double>
+                </measurements>
+                <hashCode>12189696</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>180.0</double>
+                  <double>-941.0</double>
+                </measurements>
+                <hashCode>15984640</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>204.0</double>
+                  <double>-797.0</double>
+                </measurements>
+                <hashCode>15886336</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>38.0</double>
+                  <double>-275.0</double>
+                </measurements>
+                <hashCode>11808768</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>9.0</double>
+                  <double>-171.0</double>
+                </measurements>
+                <hashCode>8871936</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>20.0</double>
+                  <double>-170.0</double>
+                </measurements>
+                <hashCode>10043392</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>25.0</double>
+                  <double>-148.0</double>
+                </measurements>
+                <hashCode>10190848</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>136.0</double>
+                  <double>-825.0</double>
+                </measurements>
+                <hashCode>15386624</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>267.0</double>
+                  <double>-1081.0</double>
+                </measurements>
+                <hashCode>16880640</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>68.0</double>
+                  <double>-328.0</double>
+                </measurements>
+                <hashCode>12943360</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>-29.0</double>
+                  <double>-58.0</double>
+                </measurements>
+                <hashCode>-2138439680</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>-11.0</double>
+                  <double>-76.0</double>
+                </measurements>
+                <hashCode>-2139553792</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>-4.0</double>
+                  <double>-69.0</double>
+                </measurements>
+                <hashCode>-2141110272</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>7.0</double>
+                  <double>-119.0</double>
+                </measurements>
+                <hashCode>7979008</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>143.0</double>
+                  <double>-1232.0</double>
+                </measurements>
+                <hashCode>16064512</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>103.0</double>
+                  <double>-351.0</double>
+                </measurements>
+                <hashCode>13611008</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>70.0</double>
+                  <double>-1408.0</double>
+                </measurements>
+                <hashCode>15171584</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>71.0</double>
+                  <double>-708.0</double>
+                </measurements>
+                <hashCode>14147584</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+            </tsArray>
+          </timeSeries>
+          <downsampledTimeSeries>
+            <labels>
+              <string>Time</string>
+              <string>0</string>
+              <string>1</string>
+            </labels>
+            <timeReadings>
+              <double>0.0</double>
+              <double>2.0</double>
+              <double>4.0</double>
+              <double>6.0</double>
+              <double>8.0</double>
+              <double>10.0</double>
+              <double>12.0</double>
+              <double>14.0</double>
+              <double>16.0</double>
+              <double>18.0</double>
+              <double>20.0</double>
+            </timeReadings>
+            <tsArray>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>55.0</double>
+                  <double>-175.0</double>
+                </measurements>
+                <hashCode>11624448</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>54.0</double>
+                  <double>-166.0</double>
+                </measurements>
+                <hashCode>11517952</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>62.0</double>
+                  <double>-216.0</double>
+                </measurements>
+                <hashCode>12189696</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>204.0</double>
+                  <double>-797.0</double>
+                </measurements>
+                <hashCode>15886336</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>9.0</double>
+                  <double>-171.0</double>
+                </measurements>
+                <hashCode>8871936</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>25.0</double>
+                  <double>-148.0</double>
+                </measurements>
+                <hashCode>10190848</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>267.0</double>
+                  <double>-1081.0</double>
+                </measurements>
+                <hashCode>16880640</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>-29.0</double>
+                  <double>-58.0</double>
+                </measurements>
+                <hashCode>-2138439680</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>-4.0</double>
+                  <double>-69.0</double>
+                </measurements>
+                <hashCode>-2141110272</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>143.0</double>
+                  <double>-1232.0</double>
+                </measurements>
+                <hashCode>16064512</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+              <com.timeseries.TimeSeriesPoint>
+                <measurements>
+                  <double>70.0</double>
+                  <double>-1408.0</double>
+                </measurements>
+                <hashCode>15171584</hashCode>
+              </com.timeseries.TimeSeriesPoint>
+            </tsArray>
+          </downsampledTimeSeries>
+          <gestureClass>1</gestureClass>
+          <id>28</id>
         </wekimini.learning.dtw.DtwExample>
       </linked-list>
       <linked-list>
@@ -874,17 +1004,11 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
               <double>8.0</double>
-              <double>9.0</double>
               <double>10.0</double>
-              <double>11.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
@@ -896,24 +1020,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-23.0</double>
-                  <double>44.0</double>
-                </measurements>
-                <hashCode>8192000</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-24.0</double>
                   <double>45.0</double>
                 </measurements>
                 <hashCode>8290304</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-21.0</double>
-                  <double>46.0</double>
-                </measurements>
-                <hashCode>8126464</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -924,24 +1034,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-971.0</double>
-                  <double>-168.0</double>
-                </measurements>
-                <hashCode>-2131535872</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-756.0</double>
                   <double>-54.0</double>
                 </measurements>
                 <hashCode>-2133680128</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>421.0</double>
-                  <double>249.0</double>
-                </measurements>
-                <hashCode>-2132185088</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -952,24 +1048,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-1210.0</double>
-                  <double>-254.0</double>
-                </measurements>
-                <hashCode>-2130532352</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-786.0</double>
                   <double>-59.0</double>
                 </measurements>
                 <hashCode>-2133454848</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-257.0</double>
-                  <double>131.0</double>
-                </measurements>
-                <hashCode>13660160</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -1068,13 +1150,9 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
               <double>8.0</double>
             </timeReadings>
             <tsArray>
@@ -1087,24 +1165,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-89.0</double>
-                  <double>134.0</double>
-                </measurements>
-                <hashCode>11993088</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-159.0</double>
                   <double>143.0</double>
                 </measurements>
                 <hashCode>12959744</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-954.0</double>
-                  <double>48.0</double>
-                </measurements>
-                <hashCode>14012416</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -1115,24 +1179,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-296.0</double>
-                  <double>110.0</double>
-                </measurements>
-                <hashCode>13500416</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-922.0</double>
                   <double>57.0</double>
                 </measurements>
                 <hashCode>14241792</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-145.0</double>
-                  <double>188.0</double>
-                </measurements>
-                <hashCode>13213696</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -1264,17 +1314,11 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
-              <double>7.0</double>
               <double>8.0</double>
-              <double>9.0</double>
               <double>10.0</double>
-              <double>11.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
@@ -1286,24 +1330,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>-112.0</double>
-                  <double>93.0</double>
-                </measurements>
-                <hashCode>11747328</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>-111.0</double>
                   <double>92.0</double>
                 </measurements>
                 <hashCode>11714560</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-112.0</double>
-                  <double>92.0</double>
-                </measurements>
-                <hashCode>11730944</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -1314,24 +1344,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>1093.0</double>
-                  <double>242.0</double>
-                </measurements>
-                <hashCode>-2130750464</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>669.0</double>
                   <double>-22.0</double>
                 </measurements>
                 <hashCode>12249088</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>-524.0</double>
-                  <double>-167.0</double>
-                </measurements>
-                <hashCode>-2132459520</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -1342,24 +1358,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>1107.0</double>
-                  <double>212.0</double>
-                </measurements>
-                <hashCode>-2130981888</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>640.0</double>
                   <double>51.0</double>
                 </measurements>
                 <hashCode>-2134016000</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>237.0</double>
-                  <double>-54.0</double>
-                </measurements>
-                <hashCode>12099584</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -1442,11 +1444,8 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
               <double>6.0</double>
             </timeReadings>
             <tsArray>
@@ -1459,13 +1458,6 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>121.0</double>
-                  <double>19.0</double>
-                </measurements>
-                <hashCode>-2137964544</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>277.0</double>
                   <double>51.0</double>
                 </measurements>
@@ -1473,24 +1465,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>1044.0</double>
-                  <double>269.0</double>
-                </measurements>
-                <hashCode>-2130632704</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>111.0</double>
                   <double>-36.0</double>
                 </measurements>
                 <hashCode>10338304</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>175.0</double>
-                  <double>-7.0</double>
-                </measurements>
-                <hashCode>8511488</hashCode>
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
@@ -1572,11 +1550,8 @@
             </labels>
             <timeReadings>
               <double>0.0</double>
-              <double>1.0</double>
               <double>2.0</double>
-              <double>3.0</double>
               <double>4.0</double>
-              <double>5.0</double>
             </timeReadings>
             <tsArray>
               <com.timeseries.TimeSeriesPoint>
@@ -1588,13 +1563,6 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>141.0</double>
-                  <double>15.0</double>
-                </measurements>
-                <hashCode>-2138071040</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>805.0</double>
                   <double>226.0</double>
                 </measurements>
@@ -1602,24 +1570,10 @@
               </com.timeseries.TimeSeriesPoint>
               <com.timeseries.TimeSeriesPoint>
                 <measurements>
-                  <double>85.0</double>
-                  <double>-11.0</double>
-                </measurements>
-                <hashCode>8077312</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
                   <double>512.0</double>
                   <double>143.0</double>
                 </measurements>
                 <hashCode>-2132680704</hashCode>
-              </com.timeseries.TimeSeriesPoint>
-              <com.timeseries.TimeSeriesPoint>
-                <measurements>
-                  <double>1007.0</double>
-                  <double>285.0</double>
-                </measurements>
-                <hashCode>-2130622464</hashCode>
               </com.timeseries.TimeSeriesPoint>
             </tsArray>
           </downsampledTimeSeries>
@@ -1665,22 +1619,26 @@
         <int>27</int>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list/wekimini.learning.dtw.DtwExample"/>
       </entry>
+      <entry>
+        <int>28</int>
+        <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[2]/wekimini.learning.dtw.DtwExample[4]"/>
+      </entry>
     </examplesForIds>
     <minSizeInExamples>6</minSizeInExamples>
-    <maxSizeInExamples>14</maxSizeInExamples>
+    <maxSizeInExamples>22</maxSizeInExamples>
     <minSizeInDownsampledExamples>6</minSizeInDownsampledExamples>
     <maxSizeInDownsampledExamples>14</maxSizeInDownsampledExamples>
     <maxLengthToRetainDuringRun>14</maxLengthToRetainDuringRun>
-    <numTotalExamples>9</numTotalExamples>
+    <numTotalExamples>10</numTotalExamples>
     <numInputs>2</numInputs>
-    <downsampleFactor>1</downsampleFactor>
+    <downsampleFactor>2</downsampleFactor>
     <downsampleToLength>10</downsampleToLength>
     <downsamplePolicy>DOWNSAMPLE_TO_MAX_LENGTH</downsamplePolicy>
     <examplesInOrder serialization="custom">
       <unserializable-parents/>
       <java.util.ArrayDeque>
         <default/>
-        <int>9</int>
+        <int>10</int>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[2]/wekimini.learning.dtw.DtwExample"/>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[3]/wekimini.learning.dtw.DtwExample"/>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[4]/wekimini.learning.dtw.DtwExample"/>
@@ -1690,6 +1648,7 @@
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[2]/wekimini.learning.dtw.DtwExample[2]"/>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[2]/wekimini.learning.dtw.DtwExample[3]"/>
         <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list/wekimini.learning.dtw.DtwExample"/>
+        <wekimini.learning.dtw.DtwExample reference="../../../allExamples/linked-list[2]/wekimini.learning.dtw.DtwExample[4]"/>
       </java.util.ArrayDeque>
     </examplesInOrder>
   </data>
@@ -1704,16 +1663,16 @@
     <downsamplePolicy>DOWNSAMPLE_TO_MAX_LENGTH</downsamplePolicy>
     <downsampleMaxLength>10</downsampleMaxLength>
   </settings>
-  <maxDistance>7935.0803849669355</maxDistance>
+  <maxDistance>8432.919959021288</maxDistance>
   <modelName>output</modelName>
-  <myID>output_1579812949221</myID>
-  <maxSliderValue>1587017</maxSliderValue>
+  <myID>output_1579813591238</myID>
+  <maxSliderValue>1686584</maxSliderValue>
   <matchThreshold>2284.33</matchThreshold>
   <recordingState>NOT_RECORDING</recordingState>
-  <runningState>NOT_RUNNING</runningState>
+  <runningState>RUNNING</runningState>
   <versionNumbers>
     <int>17</int>
-    <int>19</int>
+    <int>20</int>
     <int>8</int>
     <int>9</int>
   </versionNumbers>
